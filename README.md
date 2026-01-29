@@ -20,8 +20,8 @@
 
 I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Engineer** currently pursuing my degree at University of Brawijaya. I love turning data into actionable insights and building intelligent systems that solve real-world problems.
 
-- 🔭 **Currently working on:** Predictive modeling for Regional Economics (GRDP/PDRB).
-- 🌱 **Learning:** Advanced ML techniques, MLOps pipeline, and Cloud Deployment.
+- 🔭 **Currently working on:** Predictive modeling for Regional Economics (GRDP/PDRB)
+- 🌱 **Learning:** Advanced ML techniques, MLOps pipeline, and Cloud Deployment
 - 👯 Open to collaborate on **data science** and **machine learning** projects
 - 💬 Ask me about Python, Machine Learning, Data Analysis, and MLOps
 - ⚡ Fun fact: I enjoy exploring new ML algorithms and experimenting with different datasets!
@@ -68,16 +68,14 @@ I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Eng
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical" width="300" />
-</div>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DianPandus&theme=radical&hide_border=true" alt="GitHub Streak" /></p>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DianPandus&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
