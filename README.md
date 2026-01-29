@@ -20,8 +20,8 @@
 
 I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Engineer** currently pursuing my degree at University of Brawijaya. I love turning data into actionable insights and building intelligent systems that solve real-world problems.
 
-- 🔭 Currently working on **MLOps projects** and **predictive modeling**
-- 🌱 Learning advanced ML techniques, deep learning, and cloud deployment
+- 🔭 **Currently working on:** Predictive modeling for Regional Economics (GRDP/PDRB).
+- 🌱 **Learning:** Advanced ML techniques, MLOps pipeline, and Cloud Deployment.
 - 👯 Open to collaborate on **data science** and **machine learning** projects
 - 💬 Ask me about Python, Machine Learning, Data Analysis, and MLOps
 - ⚡ Fun fact: I enjoy exploring new ML algorithms and experimenting with different datasets!
@@ -70,11 +70,12 @@ I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Eng
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dian's GitHub Stats" />
+<a href="https://github.com/DianPandus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Dian's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DianPandus&theme=radical&hide_border=true" alt="GitHub Streak" />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DianPandus&theme=radical&hide_border=true" alt="GitHub Streak" /></p>
 
 </div>
 
@@ -98,7 +99,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dianpandu25@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dianpandu.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dian-pandu-syahfitra/)
 
