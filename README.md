@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dian Pandu Syahfitra
 
-### Data Science Enthusiast | Machine Learning Engineer | Mobile Developer
+### Data Science Enthusiast | Machine Learning Engineer | MLOps Practitioner
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dianpandu.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dian-pandu-syahfitra/)
@@ -22,8 +22,8 @@ I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Eng
 
 - 🔭 Currently working on **MLOps projects** and **predictive modeling**
 - 🌱 Learning advanced ML techniques, deep learning, and cloud deployment
-- 👯 Open to collaborate on **data science**, **machine learning**, and **mobile development** projects
-- 💬 Ask me about Python, Machine Learning, Data Analysis, and Kotlin
+- 👯 Open to collaborate on **data science** and **machine learning** projects
+- 💬 Ask me about Python, Machine Learning, Data Analysis, and MLOps
 - ⚡ Fun fact: I enjoy exploring new ML algorithms and experimenting with different datasets!
 
 ---
@@ -37,10 +37,6 @@ I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Eng
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🌐 Web Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -68,22 +64,17 @@ I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Eng
 - **Highlights:** Automated model training, deployment, and monitoring
 - **Focus:** Production-ready ML systems with version control and reproducibility
 
-### 📱 Mobile Development Projects
-> Android applications built with Kotlin
-- **[PAPB Praktikum](https://github.com/DianPandus/PapbPrak)** - Mobile app development coursework
-- **[Project Kuliah](https://github.com/DianPandus/ProjectKuliah)** - Academic mobile project showcase
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Dian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dian's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DianPandus&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DianPandus&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -107,7 +98,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dianpandu25@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dianpandu.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dian-pandu-syahfitra/)
 
