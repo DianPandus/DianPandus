@@ -70,10 +70,10 @@ I'm a passionate **Data Science enthusiast** and **aspiring Machine Learning Eng
 
 <div align="center">
 
-<a href="https://github.com/DianPandus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Dian's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DianPandus&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianPandus&layout=compact&theme=radical" width="300" />
+</div>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DianPandus&theme=radical&hide_border=true" alt="GitHub Streak" /></p>
 
